@@ -1,0 +1,11 @@
+This ROM is from a macintosh performa 630.
+
+* 68040 mac
+* up to 36 MB ram / 1 MB Vram
+
+Can be used with Fusion & Basilisk II
+
+Thanks to "stella" for the file & info!
+
+- Paul
+  http://madjock.emulationworld.com
